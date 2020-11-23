@@ -1,3 +1,6 @@
+# ‼‼‼‼‼‼ not for illegal use ‼‼‼‼‼‼
+
+
 # SayCheese v1.0
 Take webcam shots from target just sending a malicious link
 
